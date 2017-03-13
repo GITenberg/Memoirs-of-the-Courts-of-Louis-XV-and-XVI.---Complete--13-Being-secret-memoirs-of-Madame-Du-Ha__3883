@@ -1,11 +1,9 @@
 _repo: Memoirs-of-the-Courts-of-Louis-XV-and-XVI.---Complete--13-Being-secret-memoirs-of-Madame-Du-Ha__3883
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Mémoires de Madame Du Hausset. English
 covers:
 - cover_type: archival
-  image_path: 3883/3883-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 3883-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Du Hausset, Mme.
@@ -21,6 +19,8 @@ creator:
     gutenberg_agent_id: '33799'
     url: http://www.gutenberg.org/2009/agents/33799
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3883#Memoirs-of-the-Courts-of-Louis-XV-and-XVI.---Complete--13-Being-secret-memoirs-of-Madame-Du-Ha_
 gutenberg_issued: '2004-08-25'
 gutenberg_type: Text
 identifiers:
